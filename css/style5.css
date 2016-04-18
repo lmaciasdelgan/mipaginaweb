@@ -1,0 +1,178 @@
+/*font-family: 'Shadows Into Light', cursive;
+ font-family: 'Indie Flower', cursive;
+*/
+
+#contenidos{
+	width: 1000px;
+	height: auto;
+	margin: auto;
+	position: relative;
+	
+
+}
+
+
+/*ETIQUETAS*/
+body{
+background-image: url(../img/fondo6.jpg);
+background-repeat:no-repeat;
+background-size: cover;
+}
+
+h1{
+font-family: 'Shadows Into Light', cover;
+color: white;
+margin-left: 10px;
+font-size: 60px;
+text-align: center; 
+}
+
+h2{
+font-family: 'Indie Flower', cursive;
+color: white;
+margin-left: 10px;
+font-size: 20px;
+text-align: left; 
+}
+
+h3{
+font-family: 'Shadows Into Light', cursive;;
+color: white;
+font-size: 30px;
+text-align: center; 
+}
+
+
+header{
+	width: 1000px;
+	height: 120 px;
+	background: rgba(255, 255, 255, 10,70);
+}
+
+nav{
+width: 500px;
+height: 50px;
+background: red;
+border-radius: 10px;
+
+}
+ul{
+margin: auto;
+padding-top: 4px;
+}
+
+li{
+	float: left;
+	list-style-type: none;
+	padding: 2px;
+	background: black;
+	margin: 3px;
+	border-radius: 10px;
+	box-shadow: 0 0 10px white inset; 
+
+}
+
+section{
+	width: 200px;
+	background: gray;
+	height: 600px;
+	float: left;
+	margin-top: 20px;
+	border-radius: 20px;
+}
+aside{
+
+	width: 300px;
+	background: transparent; ;
+	height: 300px;
+	float: left;
+	margin-left: 100px;
+	margin-top: 10px;
+	border-radius: 5px;
+	color: white;
+}
+
+footer{
+width: 1000px;
+height: 70px;
+background: gray;
+float: left;
+margin-top: 200px;
+border-radius: 10px;
+margin-bottom: 20px;
+}
+
+p{
+
+	font-size: 12px;
+	font-weight: bolder;
+	line-height: 14px;
+	padding: 10px;
+	text-align: justify;
+}
+
+img {
+	width: 100px;
+	background: blue ;
+	height: 100px;
+	float: left;
+	margin-left: 5px;
+	margin-top: 5px;
+	border-radius: 20px;
+  
+}
+span {
+	font-family: 'Shadows Into Light', cursive;;
+color: white;
+font-size: 12px;
+text-align: left;
+
+}
+figcaption{
+
+font-family: 'Shadows Into Light', cursive;;
+color: white;
+font-size: 5px;
+text-align: left;
+
+}
+iframe {
+	width: 350px;
+	background: blue ;
+	height: 300px;
+	float: center;
+	margin-left: 5px;
+	margin-top: 5px;
+	border-radius: 20px;
+
+}
+
+
+/*CLASES*/
+
+.ancho_menu_home{width: 900px;}
+.ancho_menu_paginas{width: 970px;}
+
+.menu:link{color: white; text-decoration: none;}
+.menu:visited{color: white; text-decoration: none;}
+.menu:hover{color: white; text-decoration: none; text-shadow: 0 0 13px white;}
+.menu:active{color: white; text-decoration: none;}
+
+/*SEUDO CLASES*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
